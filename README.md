@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraddha Markali </h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha095&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha095" /> </p>
 
